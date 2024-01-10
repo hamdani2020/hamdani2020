@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 [//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdani2020" alt="hamdani2020" /></a> </p>
 )
 
-- 👨‍💻 Most of my projects are available at [hamdanialhassangandi.netlify.app](hamdanialhassangandi.netlify.app)
-
 - 📫 How to reach me **hamdanialhassangandi2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
