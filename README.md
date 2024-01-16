@@ -3,42 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alhassan+Hamdani+Gandi;Software+Engineer+%7C+Devops+Engineer+%7C+Data+Scientist;AI+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
-  
-<a href="https://drive.google.com/file/d/1NdKXa_23dGpu0SS_1LjOHe_maZfp9MEI/view?usp=sharing">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>
-
-<a href="https://www.linkedin.com/in/hamdani-alhassan-gandi/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-
-<a href="alhassanhamdanigandi2020@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-  
-<br/>
-
-<a href="https://github.com/hamdani2020">
-    <img src="https://github-stats-alpha.vercel.app/api?username=franklinobasy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdani2020&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamdani2020&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdani2020&theme=dracula)
-
-</details>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdani2020&label=Profile%20views&color=0e75b6&style=flat" alt="hamdani2020" /> </p>
-
-[//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdani2020" alt="hamdani2020" /></a> </p>
-)
-
 - 📫 How to reach me **hamdanialhassangandi2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
