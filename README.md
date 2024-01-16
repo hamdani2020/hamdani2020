@@ -1,22 +1,39 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/hamdani2020">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alhassan+Hamdani+Gandi;Software+Engineer+%7C+Devops+Engineer+%7C+Data+Scientist;AI+%7C+Machine+Learning" alt="Typing SVG" />
+</a>
+<br/>
+  
+<a href="https://drive.google.com/file/d/1NdKXa_23dGpu0SS_1LjOHe_maZfp9MEI/view?usp=sharing">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>
 
-<!--
-**hamdani2020/hamdani2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/hamdani-alhassan-gandi/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 
-Here are some ideas to get you started:
+<a href="alhassanhamdanigandi2020@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+  
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Alhassan Hamdani Gandi</h1>
-<h3 align="center">A passionate fullstack software engineer</h3>
+<a href="https://github.com/hamdani2020">
+    <img src="https://github-stats-alpha.vercel.app/api?username=franklinobasy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamdani2020&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamdani2020&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamdani2020&theme=dracula)
+
+</details>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdani2020&label=Profile%20views&color=0e75b6&style=flat" alt="hamdani2020" /> </p>
 
 [//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamdani2020" alt="hamdani2020" /></a> </p>
