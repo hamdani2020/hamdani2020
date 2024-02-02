@@ -27,7 +27,6 @@
 #### Tools and Technologies
 
 ![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Metric_Dashboard-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
