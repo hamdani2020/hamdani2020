@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/hamdani2020">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alhassan+Hamdani+Gandi;Fullstack+Software+Engineer+%7C+Devops+Engineer+%7C+Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alhassan+Hamdani+Gandi;Fullstack+Software+Engineer+%7C+Devops+Engineer+%7C+Computer+Vision+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 </p>
@@ -18,15 +18,11 @@
 
 #### WEB FRAMEWORKS
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### Tools and Technologies
 
-![NodeJS](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-VanillaJS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
@@ -34,9 +30,7 @@
 ![](https://img.shields.io/badge/Reverse_Proxy/Web_Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
@@ -46,7 +40,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamdani-alhassan-gandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdani-alhassan-gandi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hgalhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamdani-alhassan-gandi" height="30" width="40" /></a>
 </p>
 <!--
 <h3 align="left">Languages and Tools:</h3>
