@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/hamdani2020">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alhassan+Hamdani+Gandi;Fullstack+Software+Engineer+%7C+Devops+Engineer+%7C+Computer+Vision+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alhassan+Hamdani+Gandi;Fullstack+Software+Engineer+%7C+Devops+Engineer+%7C+" alt="Typing SVG" />
 </a>
 <br/>
 </p>
